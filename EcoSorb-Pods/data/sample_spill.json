@@ -1,0 +1,27 @@
+{
+  "spill_id": "DEMO-001",
+  "coordinate_system": "local_meters",
+  "polygon": [
+    [
+      0,
+      0
+    ],
+    [
+      120,
+      0
+    ],
+    [
+      120,
+      60
+    ],
+    [
+      0,
+      60
+    ]
+  ],
+  "oil_thickness_m": 0.0001,
+  "oil_density_kg_m3": 850,
+  "cartridge_capacity_kg": 8,
+  "available_pods": 3,
+  "swath_width_m": 10
+}
